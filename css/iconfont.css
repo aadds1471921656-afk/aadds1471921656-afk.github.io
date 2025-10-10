@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'LXGW WenKai'; /* 字体名称 */
+  src: url('/css/LXGWWenKaiMono-Medium.ttf') format('truetype'); /* 字体文件路径与格式 */
+}
+body {
+  font-family: 'LXGW WenKai', sans-serif; /* 应用字体 */
+}
+
